@@ -1,6 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
 ///////////Juego de piedra papel y tijera////////////
 
 //Instancia para crear objeto de tipo Random
