@@ -1,0 +1,15 @@
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\bin\Debug\net6.0\Rock, paper or scissors.exe
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\bin\Debug\net6.0\Rock, paper or scissors.deps.json
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\bin\Debug\net6.0\Rock, paper or scissors.runtimeconfig.json
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\bin\Debug\net6.0\Rock, paper or scissors.dll
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\bin\Debug\net6.0\Rock, paper or scissors.pdb
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\obj\Debug\net6.0\Rock, paper or scissors.csproj.AssemblyReference.cache
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\obj\Debug\net6.0\Rock, paper or scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\obj\Debug\net6.0\Rock, paper or scissors.AssemblyInfoInputs.cache
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\obj\Debug\net6.0\Rock, paper or scissors.AssemblyInfo.cs
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\obj\Debug\net6.0\Rock, paper or scissors.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\obj\Debug\net6.0\Rock, paper or scissors.dll
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\obj\Debug\net6.0\refint\Rock, paper or scissors.dll
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\obj\Debug\net6.0\Rock, paper or scissors.pdb
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\obj\Debug\net6.0\Rock, paper or scissors.genruntimeconfig.cache
+C:\Users\Santiago Montero\source\repos\Curso Basico de programacion con c#\Rock, paper or scissors\Rock, paper or scissors\obj\Debug\net6.0\ref\Rock, paper or scissors.dll
